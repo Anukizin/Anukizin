@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a0a0b"/><stop offset=".6" stop-color="#141011"/><stop offset="1" stop-color="#220f08"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#FE530B" stop-opacity=".42"/><stop offset="1" stop-color="#FE530B" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1200" height="360" fill="url(#bg)"/>
+<rect width="1200" height="360" fill="url(#grid)"/>
+<ellipse cx="1030" cy="200" rx="420" ry="320" fill="url(#glow)"/>
+<path d="M760 350L1200 40M850 360L1200 120M930 360L1200 205" stroke="#FE530B" stroke-opacity=".19" stroke-width="2"/>
+<circle cx="1040" cy="185" r="112" fill="none" stroke="#FE530B" stroke-opacity=".65" stroke-width="2"/>
+<circle cx="1040" cy="185" r="86" fill="none" stroke="#FE530B" stroke-opacity=".24" stroke-width="1.5"/>
+<circle cx="1040" cy="185" r="58" fill="#FE530B" fill-opacity=".12" stroke="#FE530B" stroke-opacity=".75"/>
+<path d="M1015 190l18 18 34-45" stroke="#FE530B" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="56" y="47" width="146" height="28" rx="14" fill="#FE530B" fill-opacity=".14" stroke="#FE530B" stroke-opacity=".7"/>
+<text x="129" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="12" letter-spacing="2" fill="#FF863D">SCALLOP STUDIO</text>
+<text x="56" y="153" font-family="Arial,Helvetica,sans-serif" font-size="61" font-weight="800" fill="#ffffff">CHRYSTIAN</text>
+<text x="56" y="223" font-family="Arial,Helvetica,sans-serif" font-size="61" font-weight="800" fill="#FE530B">ANDRADE.</text>
+<text x="59" y="271" font-family="Arial,sans-serif" font-size="20" font-weight="500" fill="#e2d9d5">WEB DEVELOPER  /  CREATIVE ENGINEER  /  CRO</text>
+<path d="M57 302H560" stroke="#FE530B" stroke-width="2"/>
+<text x="59" y="331" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#a6a0a1">DESIGN-DRIVEN DEVELOPMENT · DIGITAL EXPERIENCES</text>
+</svg>
