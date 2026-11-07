@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-editorial.svg" width="100%" alt="Scallop Studio — design that does more, Chrystian Andrade" />
+<img src="./assets/hero-editorial.svg" width="100%" alt="Scallop Studio — design that does more, Chrystina Scallop" />
 
 <br/>
 
@@ -29,9 +29,9 @@ I build distinctive websites, intuitive digital products and systems that connec
 
 <br/>
 
-### Hey, I'm Chrystian 👋
+### Hey, I'm Chrystina 👋
 
-I'm **Chrystian Andrade**, a web developer and creative engineer. I love building purposeful, visually striking experiences — from immersive landing pages to Shopify storefronts, customer journeys and marketing integrations.
+I'm **Chrystina Scallop**, a web developer, creative engineer and founder of Scallop Studio. I love building purposeful, visually striking experiences — from immersive landing pages to Shopify storefronts, customer journeys and marketing integrations.
 
 > **Design should make people feel something. Engineering should make everything work.**
 
