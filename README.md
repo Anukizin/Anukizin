@@ -4,12 +4,13 @@
 
 <br/>
 
-**CREATIVE DEVELOPMENT · DIGITAL EXPERIENCES · E-COMMERCE · AUTOMATION**
+**CHRYSTINA SCALLOP · PORTO, PORTUGAL · CREATIVE DEVELOPMENT · UI/UX**
 
 I build distinctive websites, intuitive digital products and systems that connect design to real business goals.
 
 [![Explore my work](https://img.shields.io/badge/EXPLORE_MY_WORK-FE530B?style=for-the-badge&labelColor=141215)](https://scallop-studio.vercel.app/)
-[![Let's work together](https://img.shields.io/badge/HIRE_ME_ON_UPWORK-141215?style=for-the-badge&logo=upwork&logoColor=FE530B)](https://www.upwork.com/freelancers/scallopdsg)
+[![Upwork](https://img.shields.io/badge/UPWORK-141215?style=for-the-badge&logo=upwork&logoColor=FE530B)](https://www.upwork.com/freelancers/scallopdsg)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-141215?style=for-the-badge&logo=linkedin&logoColor=FE530B)](https://www.linkedin.com/in/chrystian-scallop-8a6607228/)
 
 </div>
 
@@ -31,7 +32,7 @@ I build distinctive websites, intuitive digital products and systems that connec
 
 ### Hey, I'm Chrystina 👋
 
-I'm **Chrystina Scallop**, a web developer, creative engineer and founder of Scallop Studio. I love building purposeful, visually striking experiences — from immersive landing pages to Shopify storefronts, customer journeys and marketing integrations.
+I'm **Chrystina Scallop**, a web developer, creative engineer and founder of **Scallop Studio**, based in **Porto, Portugal**. I love building purposeful, visually striking experiences — from immersive landing pages to Shopify storefronts, customer journeys and marketing integrations.
 
 > **Design should make people feel something. Engineering should make everything work.**
 
@@ -200,6 +201,7 @@ I work across the full digital experience, from interface design to engineering,
 
 [![Scallop Studio](https://img.shields.io/badge/VISIT_SCALLOP_STUDIO-FE530B?style=for-the-badge&labelColor=111111)](https://scallop-studio.vercel.app/)
 [![Work with me](https://img.shields.io/badge/WORK_WITH_ME-151515?style=for-the-badge&logo=upwork&logoColor=FE530B)](https://www.upwork.com/freelancers/scallopdsg)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-151515?style=for-the-badge&logo=linkedin&logoColor=FE530B)](https://www.linkedin.com/in/chrystian-scallop-8a6607228/)
 
 <sub>© Scallop Studio · Design × Development × Growth</sub>
 
