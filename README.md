@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/hero-editorial.svg" width="100%" alt="Scallop Studio — design that does more, Chrystina Scallop" />
-
 <br/>
 
 **CHRYSTINA SCALLOP · PORTO, PORTUGAL · CREATIVE DEVELOPMENT · UI/UX**
@@ -15,8 +13,6 @@ I build distinctive websites, intuitive digital products and systems that connec
 </div>
 
 <br/>
-
-<img src="./assets/studio-feature.svg" width="100%" alt="Scallop Studio — digital experiences with personality" />
 
 <div align="center">
 
@@ -37,8 +33,6 @@ I'm **Chrystina Scallop**, a web developer, creative engineer and founder of **S
 > **Design should make people feel something. Engineering should make everything work.**
 
 <br/>
-
-<img src="./assets/projects-editorial.svg" width="100%" alt="Selected web design and development projects" />
 
 <br/>
 
