@@ -1,188 +1,206 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" alt="Chrystian Andrade — Developer and creative engineer, Scallop Studio" width="100%" />
+<img src="./assets/hero-editorial.svg" width="100%" alt="Scallop Studio — design that does more, Chrystian Andrade" />
 
 <br/>
 
-**DESIGN-LED DEVELOPMENT · E-COMMERCE · AUTOMATION · CONVERSION**
+**CREATIVE DEVELOPMENT · DIGITAL EXPERIENCES · E-COMMERCE · AUTOMATION**
 
-I design and build digital experiences that turn ideas into useful, high-performing products.
+I build distinctive websites, intuitive digital products and systems that connect design to real business goals.
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE_PORTFOLIO-FE530B?style=for-the-badge&labelColor=111111)](https://scallop-studio.vercel.app/)
-[![Hire on Upwork](https://img.shields.io/badge/HIRE_ON_UPWORK-111111?style=for-the-badge&logo=upwork&logoColor=FE530B)](https://www.upwork.com/freelancers/scallopdsg)
-[![GitHub](https://img.shields.io/badge/VIEW_REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anukizin?tab=repositories)
+[![Explore my work](https://img.shields.io/badge/EXPLORE_MY_WORK-FE530B?style=for-the-badge&labelColor=141215)](https://scallop-studio.vercel.app/)
+[![Let's work together](https://img.shields.io/badge/HIRE_ME_ON_UPWORK-141215?style=for-the-badge&logo=upwork&logoColor=FE530B)](https://www.upwork.com/freelancers/scallopdsg)
 
 </div>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/01-ABOUT-FE530B?style=flat-square&labelColor=111111" alt="01 About" />
-
-### Creative thinking. Solid engineering. Measurable impact.
-
-I'm **Chrystian Andrade**, a web developer and the creator of **Scallop Studio**. My work connects **UI/UX, front-end engineering, CMS and e-commerce development, CRO, analytics, and marketing automation**.
-
-I care about every detail: from the first screen and microinteraction to mobile responsiveness, page speed, customer journeys, and reliable integrations.
-
-`WEB DEVELOPMENT` · `UI/UX DESIGN` · `SHOPIFY` · `WORDPRESS` · `CRO` · `KLAVIYO`
-
----
-
-## <img src="https://img.shields.io/badge/02-SELECTED_WORK-FE530B?style=flat-square&labelColor=111111" alt="02 Selected work" />
-
-**A growing collection of websites, storefronts, customer experiences and digital systems.** Projects cover different types of involvement, including design, development, maintenance, QA, integrations and campaign automation; not every project represents an end-to-end build.
-
-### ★ Featured digital experiences
-
-<table>
-<tr><td width="50%" valign="top">
-
-### SCALLOP STUDIO
-**Digital studio · Portfolio & web systems**
-
-My own studio's website: services, creative direction, portfolio and digital experiences.
-
-[**VIEW WEBSITE ↗**](https://scallop-studio.vercel.app/)
-
-</td><td width="50%" valign="top">
-
-### EFRAIM TURISMO
-**Travel · Interactive website**
-
-Tourism web experience focused on presenting destinations and simplifying customer enquiries.
-
-[**VIEW WEBSITE ↗**](https://efraim-turismo.vercel.app/) · [Code](https://github.com/Anukizin/efraim-turismo)
-
-</td></tr>
-<tr><td valign="top">
-
-### BAR G HAT SHOP
-**Shopify · Klaviyo · E-commerce**
-
-Storefront improvements, customer journeys, QR/NFC signup flows and email/SMS automation.
-
-[**VIEW BRAND ↗**](https://barghatshop.com/)
-
-</td><td valign="top">
-
-### HVACSALE
-**E-commerce · Shopify · Analytics**
-
-Storefront enhancements, collection/navigation UX, shopping feeds, ads and conversion tracking.
-
-[**VIEW BRAND ↗**](https://hvacsale.com/)
-
-</td></tr>
-<tr><td valign="top">
-
-### DR. DARLLAN
-**Premium web design · Healthcare**
-
-Premium redesign concept with refined typography, navigation and responsive interactions.
-
-[**EXPLORE REPOSITORY ↗**](https://github.com/Anukizin/dr-darllan-premium)
-
-</td><td valign="top">
-
-### PROJETO NUBAK
-**Web product · Front-end**
-
-Development project exploring web-based product interfaces.
-
-[**EXPLORE REPOSITORY ↗**](https://github.com/Anukizin/projeto-nubak)
-
-</td></tr>
-</table>
-
-### More websites & collaborations
-
-| Project | Area | My work / focus |
-| :-- | :-- | :-- |
-| **Cabana Burger** | Food & hospitality | Digital presence and website experience |
-| **Speech LP** | Landing page | Landing-page experience and conversion-focused presentation |
-| **Teeki Boutique** | Fashion & e-commerce | E-commerce and digital experience |
-| **Bullbee** | Brand / web | Website and digital presentation |
-| **Atlanta Professional Landscaping** | Local services | Service website and lead-generation experience |
-| **Sunday Club** | E-commerce lifecycle | Klaviyo delivery-flow logic, dynamic content and QA |
-| **Monkefy** | Digital product | Web project · [Repository](https://github.com/Anukizin/Monkefyproject) |
-| **Torque** | Brand / web | Website project |
-| **KOI Build** | Brand / web | Website project |
-| **Anuki** | Web / commerce | [Sales project repository](https://github.com/Anukizin/anuki-primeira-venda-facil) |
-| **Fly Digital** | Digital experience | [Project repository](https://github.com/Anukizin/flyer-digital-fly) |
-
-<sub>Some client engagements and internal builds do not have public code or an independently verified live URL. Descriptions are scoped to areas of work rather than claiming complete ownership of every site.</sub>
-
----
-
-## <img src="https://img.shields.io/badge/03-TECH_STACK-FE530B?style=flat-square&labelColor=111111" alt="03 Tech stack" />
-
-**Technologies, platforms and tools in my web development ecosystem.** Platform familiarity varies from hands-on development to maintenance, integrations and project exposure.
-
-**FRONT-END & CREATIVE DEVELOPMENT**
-
-![HTML5](https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-171717?style=for-the-badge&logo=css&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-171717?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-171717?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-171717?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-171717?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-
-**BACK-END, DATA & DELIVERY**
-
-![Node.js](https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![PHP](https://img.shields.io/badge/PHP-171717?style=for-the-badge&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-171717?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![MySQL](https://img.shields.io/badge/MySQL-171717?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-171717?style=for-the-badge&logo=vercel&logoColor=white)
-
-**COMMERCE, CMS & BUILDERS**
-
-![Shopify](https://img.shields.io/badge/Shopify_%26_Liquid-171717?style=for-the-badge&logo=shopify&logoColor=7AB55C)
-![WordPress](https://img.shields.io/badge/WordPress-171717?style=for-the-badge&logo=wordpress&logoColor=21759B)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-171717?style=for-the-badge&logo=woocommerce&logoColor=96588A)
-![Webflow](https://img.shields.io/badge/Webflow-171717?style=for-the-badge&logo=webflow&logoColor=146EF5)
-![Framer](https://img.shields.io/badge/Framer-171717?style=for-the-badge&logo=framer&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix-171717?style=for-the-badge&logo=wix&logoColor=white)
-![Squarespace](https://img.shields.io/badge/Squarespace-171717?style=for-the-badge&logo=squarespace&logoColor=white)
-![Magento](https://img.shields.io/badge/Magento-171717?style=for-the-badge&logo=magento&logoColor=EE672F)
-![HubSpot](https://img.shields.io/badge/HubSpot-171717?style=for-the-badge&logo=hubspot&logoColor=FF7A59)
-
-**DESIGN, EMAIL, TRACKING & GROWTH**
-
-![Figma](https://img.shields.io/badge/Figma-171717?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Klaviyo](https://img.shields.io/badge/Klaviyo-171717?style=for-the-badge&logo=klaviyo&logoColor=white)
-![GA4](https://img.shields.io/badge/Google_Analytics_4-171717?style=for-the-badge&logo=googleanalytics&logoColor=E37400)
-![Google Ads](https://img.shields.io/badge/Google_Ads-171717?style=for-the-badge&logo=googleads&logoColor=4285F4)
-![Tag Manager](https://img.shields.io/badge/Tag_Manager-171717?style=for-the-badge&logo=googletagmanager&logoColor=246FDB)
-
-<sub>Additional tools/platforms: Elementor · BigCommerce · Joomla · Craft CMS · GoHighLevel · API integrations.</sub>
-
----
-
-## <img src="https://img.shields.io/badge/04-HOW_I_WORK-FE530B?style=flat-square&labelColor=111111" alt="04 How I work" />
-
-`DISCOVERY` → `UI/UX` → `DEVELOPMENT` → `QA & TESTING` → `OPTIMISATION`
-
-- **Design with purpose:** responsive hierarchy, visual polish and accessible interactions.
-- **Build for maintainability:** structured components, sensible integrations and a scalable foundation.
-- **Test before delivery:** mobile/desktop checks, functional QA, tracking and customer journeys.
-- **Optimise beyond launch:** ongoing improvements guided by usability, reliability and conversion goals.
-
----
+<img src="./assets/studio-feature.svg" width="100%" alt="Scallop Studio — digital experiences with personality" />
 
 <div align="center">
 
-### HAVE SOMETHING AMBITIOUS IN MIND?
+### A creative studio with an engineering mindset.
 
-**Let's build a better digital experience.**
+**Scallop Studio** is my digital studio, bringing together premium web development, strong UI/UX, e-commerce, conversion-focused experiences and smart marketing systems.
 
-[![Scallop Studio](https://img.shields.io/badge/SEE_MY_WORK-FE530B?style=for-the-badge&labelColor=111111)](https://scallop-studio.vercel.app/)
-[![Upwork](https://img.shields.io/badge/START_A_PROJECT-111111?style=for-the-badge&logo=upwork&logoColor=FE530B)](https://www.upwork.com/freelancers/scallopdsg)
+**[VISIT SCALLOP STUDIO ↗](https://scallop-studio.vercel.app/)**
 
-<sub>© Scallop Studio · Design × Engineering × Growth</sub>
+</div>
+
+<br/>
+
+### Hey, I'm Chrystian 👋
+
+I'm **Chrystian Andrade**, a web developer and creative engineer. I love building purposeful, visually striking experiences — from immersive landing pages to Shopify storefronts, customer journeys and marketing integrations.
+
+> **Design should make people feel something. Engineering should make everything work.**
+
+<br/>
+
+<img src="./assets/projects-editorial.svg" width="100%" alt="Selected web design and development projects" />
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🍊 Scallop Studio</h3>
+<p><strong>Creative direction · Portfolio · Web development</strong></p>
+<p>My own studio and its digital home, built to showcase creative work, services and conversion-focused experiences.</p>
+<a href="https://scallop-studio.vercel.app/"><strong>Explore website ↗</strong></a>
+</td>
+<td width="50%" valign="top">
+<h3>✈️ Efraim Turismo</h3>
+<p><strong>Tourism · Interactive experience</strong></p>
+<p>Destination-led site experience with an intuitive path from inspiration to customer enquiry.</p>
+<a href="https://efraim-turismo.vercel.app/"><strong>View website ↗</strong></a> · <a href="https://github.com/Anukizin/efraim-turismo">Repository</a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>🤠 Bar G Hat Shop</h3>
+<p><strong>Shopify · Klaviyo · E-commerce</strong></p>
+<p>Storefront improvements, custom-hat experience flows, email/SMS lifecycle work and NFC/QR capture systems.</p>
+<a href="https://barghatshop.com/"><strong>Visit brand ↗</strong></a>
+</td>
+<td valign="top">
+<h3>⚙️ HVACsale</h3>
+<p><strong>Shopify · Commerce · Analytics</strong></p>
+<p>Storefront UX, navigation, product experience, merchandising and conversion tracking.</p>
+<a href="https://hvacsale.com/"><strong>Visit brand ↗</strong></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>✨ Dr. Darllan</h3>
+<p><strong>Premium website · UI/UX</strong></p>
+<p>Premium healthcare website design direction, refined type, interface details and responsive interactions.</p>
+<a href="https://github.com/Anukizin/dr-darllan-premium"><strong>View repository ↗</strong></a>
+</td>
+<td valign="top">
+<h3>💻 Projeto Nubak</h3>
+<p><strong>Product interface · Front-end</strong></p>
+<p>Digital product interface exploration and web development work.</p>
+<a href="https://github.com/Anukizin/projeto-nubak"><strong>View repository ↗</strong></a>
+</td>
+</tr>
+</table>
+
+### More work. Different industries. One attention to detail.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🍔 Cabana Burger</h3>
+<strong>Food & hospitality</strong><br/>Website and digital presentation.
+</td>
+<td width="50%" valign="top">
+<h3>🚀 Speech LP</h3>
+<strong>Landing page</strong><br/>Conversion-focused landing page experience.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>🛍️ Teeki Boutique</h3>
+<strong>Fashion & e-commerce</strong><br/>Storefront and digital experience.
+</td>
+<td valign="top">
+<h3>⚡ Bullbee</h3>
+<strong>Brand & web</strong><br/>Website and brand presentation.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>🌿 Atlanta Professional Landscaping</h3>
+<strong>Local services</strong><br/>Services website and lead-generation UX.
+</td>
+<td valign="top">
+<h3>💌 Sunday Club</h3>
+<strong>Klaviyo & customer journeys</strong><br/>Delivery emails, dynamic content and QA.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>🏗️ KOI Build</h3>
+<strong>Brand & web</strong><br/>Website project.
+</td>
+<td valign="top">
+<h3>✦ More client collaborations</h3>
+<strong>Web, e-commerce & automation</strong><br/>Some engagements have private deliverables or unreleased code.
+</td>
+</tr>
+</table>
+
+<sub>Project descriptions reflect different scopes of involvement — including design, development, maintenance, QA and automation. Some client projects do not have public repositories or confirmed live links.</sub>
+
+<br/>
+
+## My creative & technical toolkit
+
+I work across the full digital experience, from interface design to engineering, e-commerce and growth. The tools below span hands-on work and platform exposure; they don't all represent the same proficiency level.
+
+### Front-end & interactive experiences
+
+![HTML5](https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-151515?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-151515?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-151515?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+
+### Back-end, data & delivery
+
+![Node.js](https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![PHP](https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-151515?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![MySQL](https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Git](https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-151515?style=for-the-badge&logo=vercel&logoColor=white)
+
+### CMS, stores & site builders
+
+![Shopify](https://img.shields.io/badge/Shopify_%26_Liquid-151515?style=for-the-badge&logo=shopify&logoColor=7AB55C)
+![WordPress](https://img.shields.io/badge/WordPress-151515?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-151515?style=for-the-badge&logo=woocommerce&logoColor=96588A)
+![Webflow](https://img.shields.io/badge/Webflow-151515?style=for-the-badge&logo=webflow&logoColor=146EF5)
+![Framer](https://img.shields.io/badge/Framer-151515?style=for-the-badge&logo=framer&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-151515?style=for-the-badge&logo=wix&logoColor=white)
+![Squarespace](https://img.shields.io/badge/Squarespace-151515?style=for-the-badge&logo=squarespace&logoColor=white)
+![Magento](https://img.shields.io/badge/Magento-151515?style=for-the-badge&logo=magento&logoColor=EE672F)
+![HubSpot](https://img.shields.io/badge/HubSpot-151515?style=for-the-badge&logo=hubspot&logoColor=FF7A59)
+
+### Design, automation & growth
+
+![Figma](https://img.shields.io/badge/Figma-151515?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Klaviyo](https://img.shields.io/badge/Klaviyo-151515?style=for-the-badge&logo=klaviyo&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-151515?style=for-the-badge&logo=googleanalytics&logoColor=E37400)
+![Google Ads](https://img.shields.io/badge/Google_Ads-151515?style=for-the-badge&logo=googleads&logoColor=4285F4)
+![Google Tag Manager](https://img.shields.io/badge/Tag_Manager-151515?style=for-the-badge&logo=googletagmanager&logoColor=246FDB)
+
+<sub>Also familiar with Elementor, BigCommerce, Joomla, Craft CMS, GoHighLevel and API integrations.</sub>
+
+<br/>
+
+## The way I build
+
+| ✦ Discover | ✦ Design | ✦ Develop | ✦ Refine |
+| :-- | :-- | :-- | :-- |
+| Understand the brand and the problem | Shape the interface and interaction | Build responsive, maintainable systems | Test, measure and improve |
+
+<br/>
+
+<div align="center">
+
+### Your next project deserves more than another template.
+
+**Let's make something bold, useful and unmistakably yours.**
+
+[![Scallop Studio](https://img.shields.io/badge/VISIT_SCALLOP_STUDIO-FE530B?style=for-the-badge&labelColor=111111)](https://scallop-studio.vercel.app/)
+[![Work with me](https://img.shields.io/badge/WORK_WITH_ME-151515?style=for-the-badge&logo=upwork&logoColor=FE530B)](https://www.upwork.com/freelancers/scallopdsg)
+
+<sub>© Scallop Studio · Design × Development × Growth</sub>
 
 </div>
